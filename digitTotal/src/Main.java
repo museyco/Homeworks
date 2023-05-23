@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        int num,mainNum,digit,total;
+        int num,digit,total;
 
         Scanner inp = new Scanner(System.in);
 
